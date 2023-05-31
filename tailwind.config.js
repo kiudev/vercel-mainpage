@@ -27,7 +27,7 @@ module.exports = {
         'ship-yellow': ['#f9cb28'],
       },
       fontFamily: {
-        'gilroy': ['gilroy'],
+        'gilroy': ['gilroy', 'sans-serif'],
       },
     },
   },
